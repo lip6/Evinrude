@@ -1,0 +1,16 @@
+# Hiérarchique
+fr.lip6.move.evinrude.optimizer.rules.PreReducStruct1
+fr.lip6.move.evinrude.optimizer.rules.PreReducStruct2
+fr.lip6.move.evinrude.optimizer.rules.PreReducStruct3
+fr.lip6.move.evinrude.optimizer.rules.PreReducStruct4
+fr.lip6.move.evinrude.optimizer.rules.PreReducStruct5
+fr.lip6.move.evinrude.optimizer.rules.PreReducStruct6
+fr.lip6.move.evinrude.optimizer.rules.PreReducStruct7
+fr.lip6.move.evinrude.optimizer.rules.PreReducStruct8
+fr.lip6.move.evinrude.optimizer.rules.PreReducStruct9
+# Post-Applatissement
+fr.lip6.move.evinrude.optimizer.rules.ReducStruct1
+fr.lip6.move.evinrude.optimizer.rules.ReducStruct2
+fr.lip6.move.evinrude.optimizer.rules.ReducStruct3
+fr.lip6.move.evinrude.optimizer.rules.ReducStruct4
+fr.lip6.move.evinrude.optimizer.rules.ReducStruct5

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/research/jbvoron/!svn/ver/3450/these/evinrude/trunk/META-INF/services
+END
+fr.lip6.move.evinrude.optimizer.IReduction
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/research/jbvoron/!svn/ver/3418/these/evinrude/trunk/META-INF/services/fr.lip6.move.evinrude.optimizer.IReduction
+END
+fr.lip6.move.evinrude.builder.IPerspective
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/research/jbvoron/!svn/ver/3450/these/evinrude/trunk/META-INF/services/fr.lip6.move.evinrude.builder.IPerspective
+END

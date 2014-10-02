@@ -1,0 +1,4 @@
+fr.lip6.move.evinrude.builder.perspectives.syscall.SyscallPerspective
+fr.lip6.move.evinrude.builder.perspectives.threads.ThreadsPerspective
+fr.lip6.move.evinrude.builder.perspectives.synchros.SynchroPerspective
+fr.lip6.move.evinrude.builder.perspectives.process.ProcessPerspective
