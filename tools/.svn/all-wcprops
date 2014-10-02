@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/research/jbvoron/!svn/ver/3542/these/evinrude/tools
+END
+test.sh
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/research/jbvoron/!svn/ver/3533/these/evinrude/tools/test.sh
+END
+integrationTest.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/research/jbvoron/!svn/ver/3542/these/evinrude/tools/integrationTest.sh
+END

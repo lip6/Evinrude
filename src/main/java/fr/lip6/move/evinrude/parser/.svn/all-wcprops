@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/research/jbvoron/!svn/ver/3541/these/evinrude/trunk/src/main/java/fr/lip6/move/evinrude/parser
+END
+IParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/research/jbvoron/!svn/ver/3213/these/evinrude/trunk/src/main/java/fr/lip6/move/evinrude/parser/IParser.java
+END
+IFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/research/jbvoron/!svn/ver/2511/these/evinrude/trunk/src/main/java/fr/lip6/move/evinrude/parser/IFile.java
+END
+AbstractModule.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/research/jbvoron/!svn/ver/2511/these/evinrude/trunk/src/main/java/fr/lip6/move/evinrude/parser/AbstractModule.java
+END
+FtpFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/research/jbvoron/!svn/ver/3399/these/evinrude/trunk/src/main/java/fr/lip6/move/evinrude/parser/FtpFile.java
+END
+LocalFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/research/jbvoron/!svn/ver/2511/these/evinrude/trunk/src/main/java/fr/lip6/move/evinrude/parser/LocalFile.java
+END
+Parser.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/research/jbvoron/!svn/ver/3541/these/evinrude/trunk/src/main/java/fr/lip6/move/evinrude/parser/Parser.java
+END
+AbstractCompositeModule.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/research/jbvoron/!svn/ver/2511/these/evinrude/trunk/src/main/java/fr/lip6/move/evinrude/parser/AbstractCompositeModule.java
+END
+IModule.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/research/jbvoron/!svn/ver/2511/these/evinrude/trunk/src/main/java/fr/lip6/move/evinrude/parser/IModule.java
+END

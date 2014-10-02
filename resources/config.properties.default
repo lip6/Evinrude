@@ -1,0 +1,23 @@
+
+evinrude.outputdir = outputs
+
+# Paramètres du dépôt de benchs
+evinrude.benchs.host = izanami.rsr.lip6.fr
+evinrude.benchs.port = 7021
+evinrude.benchs.user = anonymous
+evinrude.benchs.password = 
+evinrude.benchs.path = /pub/evinrude-benchs
+
+# Authentification SVN de bianca
+evinrude.svn.user = evinrude
+evinrude.svn.password = sos4[yen
+evinrude.svn.bianca = https://srcdev.lip6.fr/svn/research/jbvoron/these/bianca/trunk
+
+# Configuration du logger
+fr.lip6.move.evinrude.level = INFO
+#fr.lip6.move.evinrude.parser.level = INFO
+#fr.lip6.move.evinrude.builder.level = INFO
+#fr.lip6.move.evinrude.builder.Flattener.level = INFO
+#fr.lip6.move.evinrude.optimizer.level = INFO
+#fr.lip6.move.evinrude.generator.level = INFO
+#fr.lip6.move.evinrude.compiler.level = INFO

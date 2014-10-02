@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/research/jbvoron/!svn/ver/3462/these/evinrude/trunk/src/main/java/fr/lip6/move/evinrude/optimizer/conditions
+END
+ICondition.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/research/jbvoron/!svn/ver/3139/these/evinrude/trunk/src/main/java/fr/lip6/move/evinrude/optimizer/conditions/ICondition.java
+END
+TypedPlaceCondition.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/research/jbvoron/!svn/ver/3418/these/evinrude/trunk/src/main/java/fr/lip6/move/evinrude/optimizer/conditions/TypedPlaceCondition.java
+END
+FlatPlaceCondition.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/research/jbvoron/!svn/ver/3210/these/evinrude/trunk/src/main/java/fr/lip6/move/evinrude/optimizer/conditions/FlatPlaceCondition.java
+END
+NoSuccessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/research/jbvoron/!svn/ver/3418/these/evinrude/trunk/src/main/java/fr/lip6/move/evinrude/optimizer/conditions/NoSuccessor.java
+END
+TypedTransitionCondition.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/research/jbvoron/!svn/ver/3418/these/evinrude/trunk/src/main/java/fr/lip6/move/evinrude/optimizer/conditions/TypedTransitionCondition.java
+END
+Loop.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/research/jbvoron/!svn/ver/3451/these/evinrude/trunk/src/main/java/fr/lip6/move/evinrude/optimizer/conditions/Loop.java
+END
+NoPredecessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/research/jbvoron/!svn/ver/3418/these/evinrude/trunk/src/main/java/fr/lip6/move/evinrude/optimizer/conditions/NoPredecessor.java
+END
+SingleSuccessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/research/jbvoron/!svn/ver/3451/these/evinrude/trunk/src/main/java/fr/lip6/move/evinrude/optimizer/conditions/SingleSuccessor.java
+END
+EmptyTargetCondition.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/research/jbvoron/!svn/ver/3345/these/evinrude/trunk/src/main/java/fr/lip6/move/evinrude/optimizer/conditions/EmptyTargetCondition.java
+END
+SinglePredecessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/research/jbvoron/!svn/ver/3451/these/evinrude/trunk/src/main/java/fr/lip6/move/evinrude/optimizer/conditions/SinglePredecessor.java
+END
+NoMarkingValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/research/jbvoron/!svn/ver/3198/these/evinrude/trunk/src/main/java/fr/lip6/move/evinrude/optimizer/conditions/NoMarkingValue.java
+END
+Condition.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/research/jbvoron/!svn/ver/3261/these/evinrude/trunk/src/main/java/fr/lip6/move/evinrude/optimizer/conditions/Condition.java
+END
+GuardedTransition.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/research/jbvoron/!svn/ver/3451/these/evinrude/trunk/src/main/java/fr/lip6/move/evinrude/optimizer/conditions/GuardedTransition.java
+END
+TwinCondition.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/research/jbvoron/!svn/ver/3462/these/evinrude/trunk/src/main/java/fr/lip6/move/evinrude/optimizer/conditions/TwinCondition.java
+END
+HasSuccessors.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/research/jbvoron/!svn/ver/3261/these/evinrude/trunk/src/main/java/fr/lip6/move/evinrude/optimizer/conditions/HasSuccessors.java
+END
+HasPredecessors.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/research/jbvoron/!svn/ver/3261/these/evinrude/trunk/src/main/java/fr/lip6/move/evinrude/optimizer/conditions/HasPredecessors.java
+END
+SiblingCondition.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/research/jbvoron/!svn/ver/3462/these/evinrude/trunk/src/main/java/fr/lip6/move/evinrude/optimizer/conditions/SiblingCondition.java
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/research/jbvoron/!svn/ver/3386/these/evinrude/trunk/src/test/java/fr/lip6/move/evinrude/parser/modules
+END
+EmptyBlockModuleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/research/jbvoron/!svn/ver/2511/these/evinrude/trunk/src/test/java/fr/lip6/move/evinrude/parser/modules/EmptyBlockModuleTest.java
+END
+SuccessorModuleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/research/jbvoron/!svn/ver/3386/these/evinrude/trunk/src/test/java/fr/lip6/move/evinrude/parser/modules/SuccessorModuleTest.java
+END
+BlockModuleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/research/jbvoron/!svn/ver/2511/these/evinrude/trunk/src/test/java/fr/lip6/move/evinrude/parser/modules/BlockModuleTest.java
+END
+VariableDeclarationModuleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/research/jbvoron/!svn/ver/3215/these/evinrude/trunk/src/test/java/fr/lip6/move/evinrude/parser/modules/VariableDeclarationModuleTest.java
+END
+CallModuleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/research/jbvoron/!svn/ver/3386/these/evinrude/trunk/src/test/java/fr/lip6/move/evinrude/parser/modules/CallModuleTest.java
+END
+CaseModuleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/research/jbvoron/!svn/ver/3386/these/evinrude/trunk/src/test/java/fr/lip6/move/evinrude/parser/modules/CaseModuleTest.java
+END
+AssignementModuleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/research/jbvoron/!svn/ver/3386/these/evinrude/trunk/src/test/java/fr/lip6/move/evinrude/parser/modules/AssignementModuleTest.java
+END
+PredecessorModuleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/research/jbvoron/!svn/ver/3386/these/evinrude/trunk/src/test/java/fr/lip6/move/evinrude/parser/modules/PredecessorModuleTest.java
+END
+MockParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/research/jbvoron/!svn/ver/3385/these/evinrude/trunk/src/test/java/fr/lip6/move/evinrude/parser/modules/MockParser.java
+END
+FunctionModuleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/research/jbvoron/!svn/ver/2522/these/evinrude/trunk/src/test/java/fr/lip6/move/evinrude/parser/modules/FunctionModuleTest.java
+END

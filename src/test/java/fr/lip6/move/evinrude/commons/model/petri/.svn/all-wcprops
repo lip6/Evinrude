@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/research/jbvoron/!svn/ver/3550/these/evinrude/trunk/src/test/java/fr/lip6/move/evinrude/commons/model/petri
+END
+ModelTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/research/jbvoron/!svn/ver/3410/these/evinrude/trunk/src/test/java/fr/lip6/move/evinrude/commons/model/petri/ModelTest.java
+END
+NodeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/research/jbvoron/!svn/ver/3550/these/evinrude/trunk/src/test/java/fr/lip6/move/evinrude/commons/model/petri/NodeTest.java
+END
+SubModelTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/research/jbvoron/!svn/ver/3550/these/evinrude/trunk/src/test/java/fr/lip6/move/evinrude/commons/model/petri/SubModelTest.java
+END

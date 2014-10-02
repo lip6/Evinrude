@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/research/jbvoron/!svn/ver/3399/these/evinrude/trunk/resources
+END
+compile.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/research/jbvoron/!svn/ver/3313/these/evinrude/trunk/resources/compile.sh
+END
+config.properties.default
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/research/jbvoron/!svn/ver/3399/these/evinrude/trunk/resources/config.properties.default
+END
+checkstyle.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/research/jbvoron/!svn/ver/3140/these/evinrude/trunk/resources/checkstyle.xml
+END

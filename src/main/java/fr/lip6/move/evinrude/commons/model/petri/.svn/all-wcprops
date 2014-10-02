@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/research/jbvoron/!svn/ver/3496/these/evinrude/trunk/src/main/java/fr/lip6/move/evinrude/commons/model/petri
+END
+Model.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/research/jbvoron/!svn/ver/3425/these/evinrude/trunk/src/main/java/fr/lip6/move/evinrude/commons/model/petri/Model.java
+END
+Guard.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/research/jbvoron/!svn/ver/3469/these/evinrude/trunk/src/main/java/fr/lip6/move/evinrude/commons/model/petri/Guard.java
+END
+Valuation.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/research/jbvoron/!svn/ver/3496/these/evinrude/trunk/src/main/java/fr/lip6/move/evinrude/commons/model/petri/Valuation.java
+END
+Place.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/research/jbvoron/!svn/ver/3399/these/evinrude/trunk/src/main/java/fr/lip6/move/evinrude/commons/model/petri/Place.java
+END
+Arc.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/research/jbvoron/!svn/ver/3451/these/evinrude/trunk/src/main/java/fr/lip6/move/evinrude/commons/model/petri/Arc.java
+END
+Node.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/research/jbvoron/!svn/ver/3400/these/evinrude/trunk/src/main/java/fr/lip6/move/evinrude/commons/model/petri/Node.java
+END
+SubModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/research/jbvoron/!svn/ver/3425/these/evinrude/trunk/src/main/java/fr/lip6/move/evinrude/commons/model/petri/SubModel.java
+END
+Transition.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/research/jbvoron/!svn/ver/3452/these/evinrude/trunk/src/main/java/fr/lip6/move/evinrude/commons/model/petri/Transition.java
+END

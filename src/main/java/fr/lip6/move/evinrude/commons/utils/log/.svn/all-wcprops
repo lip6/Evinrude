@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/research/jbvoron/!svn/ver/3405/these/evinrude/trunk/src/main/java/fr/lip6/move/evinrude/commons/utils/log
+END
+ConsoleHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/research/jbvoron/!svn/ver/3405/these/evinrude/trunk/src/main/java/fr/lip6/move/evinrude/commons/utils/log/ConsoleHandler.java
+END
+EvinrudeLogHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/research/jbvoron/!svn/ver/2356/these/evinrude/trunk/src/main/java/fr/lip6/move/evinrude/commons/utils/log/EvinrudeLogHandler.java
+END
+EvinrudeLogFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/research/jbvoron/!svn/ver/3405/these/evinrude/trunk/src/main/java/fr/lip6/move/evinrude/commons/utils/log/EvinrudeLogFormatter.java
+END

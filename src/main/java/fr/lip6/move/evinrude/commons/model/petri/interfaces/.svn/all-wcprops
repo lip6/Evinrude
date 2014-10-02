@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/research/jbvoron/!svn/ver/3463/these/evinrude/trunk/src/main/java/fr/lip6/move/evinrude/commons/model/petri/interfaces
+END
+ISubModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/research/jbvoron/!svn/ver/3371/these/evinrude/trunk/src/main/java/fr/lip6/move/evinrude/commons/model/petri/interfaces/ISubModel.java
+END
+ITransition.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/research/jbvoron/!svn/ver/3452/these/evinrude/trunk/src/main/java/fr/lip6/move/evinrude/commons/model/petri/interfaces/ITransition.java
+END
+IModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/research/jbvoron/!svn/ver/3405/these/evinrude/trunk/src/main/java/fr/lip6/move/evinrude/commons/model/petri/interfaces/IModel.java
+END
+IEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/research/jbvoron/!svn/ver/3454/these/evinrude/trunk/src/main/java/fr/lip6/move/evinrude/commons/model/petri/interfaces/IEvent.java
+END
+IGuard.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/research/jbvoron/!svn/ver/3454/these/evinrude/trunk/src/main/java/fr/lip6/move/evinrude/commons/model/petri/interfaces/IGuard.java
+END
+IValuation.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/research/jbvoron/!svn/ver/3463/these/evinrude/trunk/src/main/java/fr/lip6/move/evinrude/commons/model/petri/interfaces/IValuation.java
+END
+IPlace.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/research/jbvoron/!svn/ver/3418/these/evinrude/trunk/src/main/java/fr/lip6/move/evinrude/commons/model/petri/interfaces/IPlace.java
+END
+IArc.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/research/jbvoron/!svn/ver/3451/these/evinrude/trunk/src/main/java/fr/lip6/move/evinrude/commons/model/petri/interfaces/IArc.java
+END
+INode.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/research/jbvoron/!svn/ver/3397/these/evinrude/trunk/src/main/java/fr/lip6/move/evinrude/commons/model/petri/interfaces/INode.java
+END
