@@ -3,12 +3,14 @@ Evinrude
 
 This is a prototype of the Evinrude tool developed by Jean-Baptiste Voron and Clément Démoulins while Jean-Baptiste was doing his Ph.D. under my supervision.
 
-This source is under GPL. You may access it freely but we ask you to propagate your modifications in this repository.
+This work was done at LIP6, the computer science research lab of the Université Pierre & Marie Curie, in France.
 
-Please find enclose some publications around this project:
+This source is under GPL. You may access it freely but we ask you to propagate your modifications in this repository.
 
 Publications
 ============
+
+Please find enclose some publications around this project:
 
 J.-B. Voron and C. Démoulins and F. Kordon. Adaptable Intrusion Detection Systems Dedicated to Concurrent Programs: a Petri Net-Based Approach. 10th International Conference on Application of Concurrency to System Design (ACSD), pages 57-66, IEEE Computer Society, June 2010
 http://lip6.fr/Fabrice.Kordon/pdf/2010-acsd-ids.pdf
